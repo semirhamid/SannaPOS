@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\sanna_server.props" />
+</Project>

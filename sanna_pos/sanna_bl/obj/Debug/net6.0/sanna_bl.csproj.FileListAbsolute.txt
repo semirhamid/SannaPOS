@@ -1,0 +1,14 @@
+C:\Users\semha\source\repos\SannaPOS\sanna_pos\sanna_bl\obj\Debug\net6.0\sanna_bl.csproj.AssemblyReference.cache
+C:\Users\semha\source\repos\SannaPOS\sanna_pos\sanna_bl\obj\Debug\net6.0\sanna_bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semha\source\repos\SannaPOS\sanna_pos\sanna_bl\obj\Debug\net6.0\sanna_bl.AssemblyInfoInputs.cache
+C:\Users\semha\source\repos\SannaPOS\sanna_pos\sanna_bl\obj\Debug\net6.0\sanna_bl.AssemblyInfo.cs
+C:\Users\semha\source\repos\SannaPOS\sanna_pos\sanna_bl\obj\Debug\net6.0\sanna_bl.csproj.CoreCompileInputs.cache
+C:\Users\semha\source\repos\SannaPOS\sanna_pos\sanna_bl\bin\Debug\net6.0\sanna_bl.deps.json
+C:\Users\semha\source\repos\SannaPOS\sanna_pos\sanna_bl\bin\Debug\net6.0\sanna_bl.runtimeconfig.json
+C:\Users\semha\source\repos\SannaPOS\sanna_pos\sanna_bl\bin\Debug\net6.0\sanna_bl.dll
+C:\Users\semha\source\repos\SannaPOS\sanna_pos\sanna_bl\bin\Debug\net6.0\sanna_bl.pdb
+C:\Users\semha\source\repos\SannaPOS\sanna_pos\sanna_bl\obj\Debug\net6.0\sanna_bl.dll
+C:\Users\semha\source\repos\SannaPOS\sanna_pos\sanna_bl\obj\Debug\net6.0\refint\sanna_bl.dll
+C:\Users\semha\source\repos\SannaPOS\sanna_pos\sanna_bl\obj\Debug\net6.0\sanna_bl.pdb
+C:\Users\semha\source\repos\SannaPOS\sanna_pos\sanna_bl\obj\Debug\net6.0\sanna_bl.genruntimeconfig.cache
+C:\Users\semha\source\repos\SannaPOS\sanna_pos\sanna_bl\obj\Debug\net6.0\ref\sanna_bl.dll

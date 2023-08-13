@@ -1,0 +1,52 @@
+[
+    {
+        "firstName": "Shafi",
+        "middleName": "Admin",
+        "lastName": "Shafi",
+        "registeredDate": "",
+        "birthDate": "1994-02-01",
+        "userName": "admin",
+        "email": "admin@gmail.com",
+        "Phone": "0911223344",
+        "roles": "admin",
+        "Password": "Admin123#"
+      },
+
+      {
+        "firstName": "Ahmed",
+        "middleName": "Owner",
+        "lastName": "Ahmed",
+        "registeredDate": "",
+        "birthDate": "1994-02-01",
+        "userName": "owner",
+        "email": "owner@gmail.com",
+        "Phone": "0922334455",
+        "roles": "owner",
+        "Password": "Owner123#"
+      },
+
+      {
+        "firstName": "Mahmood",
+        "middleName": "Waiter",
+        "lastName": "Mahmood",
+        "registeredDate": "",
+        "birthDate": "1994-02-01",
+        "userName": "waiter",
+        "email": "waiter@gmail.com",
+        "Phone": "0933445566",
+        "roles": "waiter",
+        "Password": "Waiter123#"
+      },
+      {
+        "firstName": "Ihsan",
+        "middleName": "Cashier",
+        "lastName": "Ihsan",
+        "registeredDate": "",
+        "birthDate": "1994-02-01",
+        "userName": "cashier",
+        "email": "cashier@gmail.com",
+        "Phone": "0944556677",
+        "roles": "cashier",
+        "Password": "Cashier123#"
+      }
+]
